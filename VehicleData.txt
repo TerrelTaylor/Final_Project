@@ -1,0 +1,10 @@
+SV300169266	    Car	    Toyota      2022                25050.00    6.00	            4
+1C4NJPFB578	    Van	    Mazda       2020	            30150.00    3.25	            3
+1047FE3331B	    Truck   Lincoln     2019	            45000.00    2.95	            10
+MG1025437A	    SUV	    MG	        2015	            35350.00    3.00	            8
+RB45974F412	    Car	    Nissan      2022	            20195.00    5.25	            7
+125MT45978S	    Van	    Mitsubishi  2024	            48095.00    4.95	            0
+488MZ458GT	    SUV	    Mazda       2005	            32000.00    6.75	            4
+78FD145LO4	    Truck   Ford        2022	            56000.00    4.95	            0
+9656CV4523Q	    Truck   Chevrolet   2015	            36000.00    9.95	            7
+79FS532DE78	    Van	    Ford        2019	            21500.00    4.35	            0
